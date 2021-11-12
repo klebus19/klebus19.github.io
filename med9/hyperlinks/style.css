@@ -1,0 +1,25 @@
+:root{
+	scroll-behavior: smooth;
+}
+img{
+	height: 200px;
+	border: 30px dotted black;
+	border-radius: 100px;s
+	padding: 30px;
+	margin: 50px;
+
+}
+
+body{
+	background-color: turquoise;
+}
+h1{
+	background-color: lightblue;
+	padding: 30px;
+	font-size: 30px;
+	text-align: center;
+}
+p{
+	max-width: 600px;
+	margin: auto;
+}

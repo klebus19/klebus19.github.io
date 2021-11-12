@@ -1,0 +1,15 @@
+img{
+	width: 400px;
+	margin: 20px;
+	border: 10px dashed blueviolet;
+	border-radius: 40px;
+}
+.left{
+	float: right;
+}
+.right{
+	float: left;
+}
+body{
+	background-color: skyblue;
+}

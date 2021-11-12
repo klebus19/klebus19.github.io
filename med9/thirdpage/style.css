@@ -1,0 +1,23 @@
+.css{ 
+	background-color: lightblue;
+	width: 1200px;
+	height: 70px;
+	margin: 90px;
+	padding: 40px;
+	border: 5px solid darkblue;
+	text-align: left;
+	font-weight: bold;
+}
+body{
+	background-color: blue;
+}
+.jjj{
+	background-color: lightblue;
+	width: 1200px;
+	height: 70px;
+	margin: 90px;
+	padding: 40px;
+	border: 5px dotted; darkblue;
+	text-align: left;
+	font-weight: bold;
+}
