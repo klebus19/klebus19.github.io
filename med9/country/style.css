@@ -1,0 +1,25 @@
+.black{
+	background-color: black;
+}
+.red{
+	background-color: red;
+}
+.yellow{
+	background-color: yellow;
+}
+div{
+	width: 2000px;
+	height: 180px;
+}
+h1{
+	text-align: center;
+}
+img{
+	width: 200px;
+	height: 150px;
+	float: right;
+	border: 10px dotted black;
+}
+body{
+	background-color: skyblue;
+}
