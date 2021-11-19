@@ -1,0 +1,12 @@
+body{
+	background-color: black;
+	color: turquoise;
+	font-size: 30px;
+	border: 20px dotted white;
+}
+img{
+	width: 500px;
+	height: 300px;
+	border: dashed yellow;
+    margin: 50px;
+}
