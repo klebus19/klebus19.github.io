@@ -1,0 +1,92 @@
+.color1{
+	background-color: rgb(240, 50, 60);
+	font-size: 50px;
+}
+.color2{
+	background-color: rgb(20, 80, 210);
+	font-size: 50px;
+}
+.color3{
+	background-color: rgb(200, 110, 30);
+	font-size: 50px;
+}
+.color4{
+	background-color: rgb(20, 10, 150);
+	font-size: 50px;
+}
+.color{
+	background-color: rgb(200, 110, 30);
+	font-size: 50px;
+}
+.color5{
+	background-color: rgb(20, 250, 30);
+	font-size: 50px;
+}
+.color21{
+	background-color: rgb(148, 252, 3);
+	font-size: 50px;
+}
+.color6{
+	font-size: 50px;
+	background-color: rgb(255, 0, 40);
+}
+.color7{
+	font-size: 50px;
+	background-color: rgb(200, 5, 7);
+}
+.color8{
+	font-size: 50px;
+	background-color: rgb(45, 0, 40);
+}
+.color9{
+	font-size: 50px;
+	background-color: rgb(50, 255, 15);
+}
+.color10{
+	background-color: rgb(3, 252, 223);
+	font-size: 50px;
+}
+.color11{
+	background-color: rgb(36, 22, 223);
+	font-size: 50px;
+}
+.color12{
+	background-color: rgb(94, 32, 23);
+	font-size: 50px;
+}
+.color13{
+	background-color: rgb(3, 2, 17);
+	font-size: 50px;
+}
+.color14{
+	background-color: rgb(3, 2, 3);
+	font-size: 50px;
+}
+.color15{
+	background-color: rgb(230, 2, 0);
+	font-size: 50px;
+}
+.color16{
+	background-color: rgb(30, 52, 23);
+	font-size: 50px;
+}
+.color17{
+	background-color: rgb(37, 2, 2);
+	font-size: 50px;
+}
+.color18{
+	background-color: rgb(80, 45, 23);
+	font-size: 50px;
+}
+.color19{
+	background-color: #999999;
+	font-size: 50px;
+}
+.color20{
+	background-color: rgb(3, 252, 223);
+	font-size: 50px;
+}
+p{
+	margin: 0px;
+	padding: 20px;
+}
