@@ -1,0 +1,28 @@
+body{
+background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 22%, rgba(25,174,186,1) 75%);
+}
+
+div{
+	background: rgb(63,94,251);
+background: linear-gradient(0deg, rgba(63,94,251,1) 22%, rgba(86,198,63,1) 40%, rgba(213,41,160,1) 53%, rgba(0,0,0,1) 65%, rgba(25,174,186,1) 75%);
+font-size: 80px;
+}
+h1{
+	background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 65%, rgba(14,78,68,1) 66%);
+color: white;
+font-size: 80px;
+}
+h2{
+	background: rgb(12,12,15);
+background: radial-gradient(circle, rgba(12,12,15,1) 21%, rgba(86,198,63,1) 40%, rgba(25,174,186,1) 75%);
+color: white;
+font-size: 80px;
+}
+h3{
+	color: white;
+	font-size: 80px;
+	background: rgb(12,12,15);
+background: linear-gradient(240deg, rgba(12,12,15,1) 21%, rgba(149,50,50,1) 22%, rgba(154,57,152,1) 40%, rgba(69,191,98,1) 42%, rgba(188,174,60,1) 55%, rgba(129,51,185,1) 57%, rgba(25,174,186,1) 75%, rgba(197,225,227,1) 75%);
+}
