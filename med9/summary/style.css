@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Comforter&family=Corinthia&family=Dongle&family=Indie+Flower&family=Neonderthaw&family=PT+Serif:wght@700&display=swap');
+h1{
+	font-size: 40px;
+	color: darkred;
+	text-align: center;
+	background-color: lightgrey;
+	font-family: Comforter;
+}
+p{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: Comforter;
+}
+ul{
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Comforter;
+}
+img{
+	height: 400px;
+	margin: 15px;
+	padding: 30pxpx;
+}
+.l{
+	height: 400px;
+	margin: 15px;
+	padding: 30pxpx;
+}
+.k{
+	height: 400px;
+	margin: 15px;
+	padding: 30pxpx;
+}
+body{
+	background: rgb(12,12,15);
+background: linear-gradient(240deg, rgba(12,12,15,1) 21%, rgba(154,57,152,1) 40%, rgba(25,174,186,1) 75%, rgba(197,225,227,1) 75%);
+}
+.d{
+	height: 400px;
+	margin: 15px;
+	padding: 30pxpx;
+	border: 20px dotted black;
+}
+.f{
+	height: 400px;
+	margin: 15px;
+	padding: 30px;
+	border: 20px dotted black;
+}
