@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Comforter&family=Corinthia&family=Dongle&family=Indie+Flower&family=Neonderthaw&family=PT+Serif:wght@700&family=Shizuru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Comforter&family=Corinthia&family=Dongle&family=Indie+Flower&family=Neonderthaw&family=PT+Serif:wght@700&family=Shizuru&family=ZCOOL+QingKe+HuangYou&display=swap');
+header{
+	height: 400px;
+	background-color: lightblue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url(1.jpg);
+	background-size: cover;
+	background-position: center;
+}
+body{
+	margin: 0px;
+}
+header h1{
+	padding: 30px;
+	background-color: rgba(255, 255, 255, 0.6);
+	border-radius: 20px;
+	color: purple;
+}
+main{
+	padding: 100px;
+	background: rgb(26,178,199);
+background: linear-gradient(351deg, rgba(26,178,199,1) 19%, rgba(180,39,127,1) 46%, rgba(29,22,175,1) 86%)
+
+}
+main p{
+	column-count: 2;
+	color: white;
+	padding: 30px;
+	background-color: purple;
+	font-family: Shizuru;
+}
+.hobby{
+	height: 300px;
+	padding: 100px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: lightgreen;
+}
+footer{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	background-image: url(3.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 700px;
+	color: white;
+	font-family: ZCOOL QingKe HuangYou;
+	font-size: 50px;
+}
