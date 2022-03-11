@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Bree+Serif&family=Comforter&family=Corinthia&family=Dancing+Script&family=Dongle&family=Indie+Flower&family=Lato:wght@100&family=Neonderthaw&family=PT+Serif:wght@700&family=Raleway&family=Shizuru&family=ZCOOL+QingKe+HuangYou&display=swap');
+body{
+	margin: 0px;
+}
+nav{
+	background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 30px;
+    background: rgb(12,226,43);
+background: radial-gradient(circle, rgba(12,226,43,1) 42%, rgba(0,0,0,1) 64%);
+}
+nav img{
+	height: 250px;
+	border-radius: 50%;
+}
+nav ul{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	list-style-type: none;
+}
+
+nav ul li a{
+	margin: 20px;
+	padding: 20px;
+	background-color: orange;
+	text-decoration: none;
+	color: red;
+	border-radius: 20px;
+	font-family: BhuTuka Expanded One;
+}
+nav ul li a:hover {
+   background-color: brown;
+   color: orange;
+}
