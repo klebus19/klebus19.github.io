@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Bree+Serif&family=Comforter&family=Corinthia&family=Dancing+Script&family=Dongle&family=Indie+Flower&family=Inspiration&family=Lato:wght@100&family=Neonderthaw&family=PT+Serif:wght@700&family=Raleway&family=Ramaraja&family=Roboto:wght@300&family=Shizuru&family=ZCOOL+QingKe+HuangYou&display=swap');
+body{
+	margin: 0px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background-color: darkgray;
+}
+
+article .image{
+	height: 200px;
+	width: 300px;
+	background-image: url(1.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 30px;
+}
+
+article .text {
+	height: 200px;
+	width: 300px;
+	background-color: white;
+	padding: 30px;
+	font-family: Roboto;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	flex-direction: column;
+}
+article .text .mini-footer{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	color: darkgrey;
+	font-size: 14px;
+	width: 100%;
+}
+article .text .mini-header{
+	text-transform: uppercase;
+	font-size: 14px;
+}
+.box{
+	background-color: red;
+	color: white;
+	padding: 6px;
+	text-transform: uppercase;
+	position: absolute;
+	top: 230px;
+	left: 0px;
+}
+article{
+	position: relative;
+}
