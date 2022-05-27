@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap');
+h1{
+	text-align: center;
+	font-family: Roboto Condensed;
+}
+h2{
+	text-align: center;
+	font-family: Roboto Condensed;
+}
+main{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	flex-wrap: wrap;
+	font-family: Roboto Condensed;
+}
+main a{
+	width: 300px;
+	height: 300px;
+	border: 2px dashed black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: black;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin: 20px;
+	background-size: cover;
+	background-position: center;
+}
+main a p{
+	background-color: white;
+	padding: 30px;
+}
+body{
+	background: rgb(12,12,15);
+background: linear-gradient(240deg, rgba(12,12,15,1) 21%, rgba(154,57,152,1) 40%, rgba(25,174,186,1) 75%, rgba(197,225,227,1) 75%);
+}
+main a:hover{
+	transform: scale(1.3) rotate(100deg);
+	transition: all 2s;
+}
